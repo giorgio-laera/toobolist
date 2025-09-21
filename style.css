@@ -1,0 +1,96 @@
+/* generics */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* utilities */
+.background-page {
+    background-color: aquamarine;
+
+}
+
+.container {
+    width: 700px;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.padding-container {
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+/* header */
+header {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    background-color: white;
+
+}
+
+img {
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+/* main */
+
+/* style-button */
+
+.style-button {
+    padding: 5px;
+    border-radius: 7px;
+}
+
+#style-task {
+    background-color: rgb(49, 191, 239);
+    color: white;
+    border: 1px solid rgb(49, 191, 239);
+
+}
+
+#style-section {
+    color: lightgray;
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+#divisore {
+    margin: 15px 0;
+    border: 1px solid  aquamarine;
+}
+/* lista */
+ul{
+    list-style-type: none;
+    
+}
+li{
+    margin-top: 15px;
+}
+/* check & cross */
+.check{
+    color: green;
+    border: 1px solid ;
+    padding: 0 3px;
+    border-radius: 50%;
+}
+.cross{
+    color: red;
+    border: 1px solid ;
+    padding: 0 3px;
+    border-radius: 50%;
+}
+/* targhetta */
+
+.editorial{
+    background-color: rgb(0, 170, 227);
+    border-radius: 12px; 
+    font-size: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 6px;
+}
