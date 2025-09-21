@@ -7,7 +7,7 @@
 
 /* utilities */
 .background-page {
-    background-color: aquamarine;
+    background-color: #d0d0d0;
 
 }
 
@@ -19,8 +19,8 @@
 }
 
 .padding-container {
-    padding-top: 20px;
-    padding-left: 35px;
+
+    padding: 20px 0 25px 35px;
 }
 
 /* header */
@@ -61,7 +61,7 @@ img {
 
 #divisore {
     margin: 15px 0;
-    border: 1px solid  aquamarine;
+    border: 1px solid   #d0d0d0;
 }
 /* lista */
 ul{
@@ -88,6 +88,46 @@ li{
 
 .editorial{
     background-color: rgb(0, 170, 227);
+    border-radius: 12px; 
+    font-size: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 6px;
+}
+#Q1-goals{
+    background-color: rgb(125, 1, 159);
+    border-radius: 12px; 
+    font-size: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 6px;
+}
+#recruiting{
+       background-color: rgb(5 173 117);
+    border-radius: 12px; 
+    font-size: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 6px;
+}
+#mobile{
+    background-color: orange;
+    border-radius: 12px; 
+    font-size: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 6px;
+}
+#website{
+    background-color:  rgb(227, 0, 148);
+    border-radius: 12px; 
+    font-size: 10px;
+    color: white;
+    border: 1px solid ;
+    padding: 6px;
+}
+#sales{
+    background-color:#84c323;
     border-radius: 12px; 
     font-size: 10px;
     color: white;
